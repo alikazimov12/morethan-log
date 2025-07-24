@@ -74,7 +74,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
    <img src='https://github.com/jhk0530/morethan-log/assets/6457691/517d46be-c9bf-4181-aaa5-e9bd2fcdc822' width = '500'>
 
    8. `Import` **your forked morethan-log repository**
-   <img src='https://github.com/jhk0530/morethan-log/assets/6457691/07742ad0-4766-43b0-9ebd-5311f9711bc2' width = '500'>
+   
 
    9. `Add` **Environment variabes** to vercel project
    <img src='https://github.com/jhk0530/morethan-log/assets/6457691/703b50a3-3a90-4915-ab73-1baca4c285f8' width = '500'>
